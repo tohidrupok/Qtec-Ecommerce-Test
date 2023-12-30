@@ -1,0 +1,14 @@
+[QSL Problem # 1] - Jan 2024
+
+Step 1: Create an ORM Data Model using any Python web framework for an ecommerce product category page. At your backend, you can create unlimited Filtering & Search Options with Unlimited values for each one. Like, Categories, Brands, Warranty, Sellers etc. You can create a product as well if you feel necessary.
+
+
+For example, If you have a Category Filtering Option,  values might be Smartphone, Earphone, Power Bank etc. If you have a Warranty Filtering Option, values might be 1 Year Warranty, 2 Years warranty etc. You can have a price range as well. Or search product by product category, name, brand, etc.
+
+Step 2: Show those results that was inserted from backend admin panel in a view[html/css] and add some filters like the image 1:
+
+(Image 1)
+
+
+
+Step 3: If I select any of those checkboxes, results will be filtered real time. You can use raw JS, Vue Js or any other frontend tech you are comfortable with. Or, it’s up to you. You can create and solve the way you like.
